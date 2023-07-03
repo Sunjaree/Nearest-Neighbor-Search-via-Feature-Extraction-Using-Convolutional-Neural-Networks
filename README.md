@@ -6,3 +6,5 @@ This project aims to develop an efficient system for similarity search using ima
 Here, we compare the feature representation of a query image with the entire dataset. We employ distance metrics like the Euclidean distance and cosine similarity to compute similarity scores efficiently. After that, we present the top 10 most similar images as the final result.
 </p>
 
+![Output 1](https://www.linkpicture.com/q/Screenshot-2023-06-11-165648.jpg)
+![Output 2](https://www.linkpicture.com/q/Screenshot-2023-06-11-170009.jpg)
